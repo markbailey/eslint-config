@@ -1,7 +1,7 @@
 {
   "name": "@markbailey/eslint-config",
   "version": "0.0.1",
-  "description": "JavaScript/Typescript, React, CSS/SCSS and Code formatting style guide",
+  "description": "ESLint configuration library",
   "main": "index.js",
   "files": [
     "index.js"
