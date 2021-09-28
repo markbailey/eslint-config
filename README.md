@@ -50,7 +50,7 @@ For the default configuration.
 ```
 module.exports  = {
   root: true,
-  extends: ['@virtalis']
+  extends: ['@markbailey']
 };
 ```
 
@@ -60,7 +60,7 @@ look something like this:
 ```
 module.exports  = {
   root: true,
-  extends: ['@markbailey/eslint-config'],
+  extends: ['@markbailey'],
   parserOptions: {
     project: './tsconfig.json',
     tsconfigRootDir: __dirname,
