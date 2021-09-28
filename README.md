@@ -1,4 +1,4 @@
-# Mark Bailey ESLint Configuration
+# ESLint Configuration
 
 Hi!
 
