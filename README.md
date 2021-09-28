@@ -7,7 +7,7 @@ Hi!
 You can install using npm:
 
 ```
-npm install markbailey/eslint-config --save-dev
+npm install @markbailey/eslint-config --save-dev
 ```
 
 Do not have ESLint installed?
@@ -60,7 +60,7 @@ look something like this:
 ```
 module.exports  = {
   root: true,
-  extends: ['markbailey/eslint-config'],
+  extends: ['@markbailey/eslint-config'],
   parserOptions: {
     project: './tsconfig.json',
     tsconfigRootDir: __dirname,
