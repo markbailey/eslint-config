@@ -4,7 +4,7 @@
   "description": "ESLint configuration library",
   "repository": "git://github.com/markbailey/eslint-config",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@markbailey:registry": "https://npm.pkg.github.com"
   },
   "main": "index.js",
   "files": [
